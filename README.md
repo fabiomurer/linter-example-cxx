@@ -12,3 +12,7 @@ cd build
 cmake ../.
 make
 ```
+
+## problem counter
+
+- `:(`
